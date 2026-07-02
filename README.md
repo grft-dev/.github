@@ -1,4 +1,4 @@
-# Graftcode
+# graftcode
 
 **Connect any code. Call as dependency.**
 
